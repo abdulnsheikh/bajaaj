@@ -1,0 +1,54 @@
+Bajaaj Privacy Policy
+
+Last Updated: June 6th, 2023
+
+This Privacy Policy explains how Bajaaj ("we" or "us") collects, uses, and discloses personal information from users of our Bajaaj Rider App. By using our app, you agree to the collection and use of your personal information as described in this policy.
+
+Information We Collect:
+
+Personal Information: We may collect personal information such as your name, email address, phone number, and profile picture when you sign up for a Bajaaj Rider account.
+
+Location Information: To provide our ride-sharing services, we collect and store your precise location data, including GPS coordinates and information about your pickup and drop-off locations.
+
+Usage and Analytics: We collect information on how you interact with the app, including your app settings, device information, and usage patterns. This data helps us improve our services, analyze trends, and troubleshoot issues.
+
+How We Use Your Information:
+
+Providing Services: We use your personal information to facilitate ride matching, connect you with drivers, process payments, and communicate with you regarding your rides.
+
+Improving User Experience: We analyze user data to enhance and personalize your experience with the Bajaaj Rider App, including optimizing navigation routes and improving overall app performance.
+
+Safety and Security: We prioritize your safety and may use your information to verify accounts, detect and prevent fraudulent activities, and ensure compliance with our terms of service and applicable laws.
+
+Information Sharing and Disclosure:
+
+Drivers: When you request a ride, we share your name and location details with the driver to facilitate the ride. Drivers are instructed to use this information solely for the purpose of providing transportation services.
+
+Service Providers: We may engage trusted third-party service providers to perform functions on our behalf, such as payment processing, data analytics, and customer support. These providers have access to your information as necessary to perform their services and are obligated to maintain its confidentiality.
+
+Aggregated Data: We may share anonymized and aggregated data that does not personally identify you with partners, advertisers, or other third parties for marketing, research, or statistical purposes.
+
+Data Retention:
+
+We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+Security Measures:
+
+We implement reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please note that no method of transmission over the internet or electronic storage is 100% secure.
+
+Your Choices and Rights:
+
+Account Settings: You can review and update your account information within the Bajaaj Rider App. You may also choose to delete your account, subject to certain legal and contractual obligations.
+
+Communication Preferences: You can manage your communication preferences to control the type and frequency of messages you receive from Bajaaj.
+
+Data Access and Rectification: If you believe that any personal information we hold about you is incorrect or incomplete, you may request to access, correct, or delete your information by contacting us through the app.
+
+Changes to the Privacy Policy:
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We encourage you to review this policy periodically.
+
+Contact Us:
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us through the app.
+
